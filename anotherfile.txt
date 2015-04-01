@@ -4,4 +4,4 @@ Make a change directly so that I can use Pull in SourceTree.
 
 Another direct change.
 
-A change to push
+A change to push using Git
